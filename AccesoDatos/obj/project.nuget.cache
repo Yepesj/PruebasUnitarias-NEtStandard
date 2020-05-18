@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zWrXzDXHYcD2r/4LVwtXbtu44ClOp2AdbGglDzW1HQVNRo50JzHMqvCOw8hobsybxRW23IdFK0s3cmNiJZi/oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\Downloads\\Practica pruebas unitarias\\PruebasUnitarias NEtStandard\\AccesoDatos\\AccesoDatos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\opencover\\4.7.922\\opencover.4.7.922.nupkg.sha512"
+  ],
+  "logs": []
+}

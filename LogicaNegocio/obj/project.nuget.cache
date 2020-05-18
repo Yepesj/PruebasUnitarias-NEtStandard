@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZyJCvhiSLU0ekORDRcabZk5o5uM9xDJ++tpnP/hM7engbDGjX4C5to7YTzuEH2pCL4Ewku9VJAx0tfNt/YQ32g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\Downloads\\Practica pruebas unitarias\\PruebasUnitarias NEtStandard\\LogicaNegocio\\LogicaNegocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\opencover\\4.7.922\\opencover.4.7.922.nupkg.sha512"
+  ],
+  "logs": []
+}
